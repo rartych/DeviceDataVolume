@@ -180,3 +180,4 @@ Feature: CAMARA Device Data Volume API, vwip - Operation retrieveDataVolume
     And the response property "$.status" is 403
     And the response property "$.code" is "PERMISSION_DENIED"
     And the response property "$.message" contains a user friendly text
+    
