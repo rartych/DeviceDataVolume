@@ -1,4 +1,4 @@
-Feature: CAMARA Device Data Volume API, vwip - Operation checkDataVolume - test
+Feature: CAMARA Device Data Volume API, vwip - Operation checkDataVolume - test1
 
   # Input to be provided by the implementation to the tester
   #
